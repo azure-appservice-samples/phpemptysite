@@ -1,5 +1,5 @@
 <?php
 echo("Welcome");
 delay(30);
-header('Location: http://e-demo.azurewebsites.net//');
+header('Location: http://alltimefamous-merchandise.azurewebsites.net');
 ?>
