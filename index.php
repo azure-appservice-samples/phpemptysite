@@ -1,5 +1,5 @@
 <?php
 echo("Welcome");
-delay(500);
+delay(100);
 header('Location: http://e-demo.azurewebsites.net//');
 ?>
