@@ -1,3 +1,3 @@
 <?php
-print("HW5");
+print("HW6");
 ?>
